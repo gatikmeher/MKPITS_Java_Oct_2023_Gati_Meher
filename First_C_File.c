@@ -1,6 +1,6 @@
 include<stdio.c>
 int main()
 {
-    printf("hello world");
+    printf("MKPITS");
     return 0;
 }
