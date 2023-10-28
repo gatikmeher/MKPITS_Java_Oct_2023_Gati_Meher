@@ -1,6 +1,15 @@
-include<stdio.h>
-char main()
+#include<stdio.c>
+int main()
 {
-    printf("hello world");
+    printf("MKPITS");
      0;
 }
+
+
+
+
+
+
+
+
+   
