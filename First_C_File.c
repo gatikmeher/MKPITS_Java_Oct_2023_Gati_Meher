@@ -1,8 +1,8 @@
 #include<stdio.c>
 int main()
 {
-    printf("MKPITS");
-     0;
+    printf("Karan Mohod");
+    return 0;
 }
 
 
